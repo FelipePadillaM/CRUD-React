@@ -10,10 +10,11 @@
   color: aliceblue;
   border: none;
   font-size: 1rem;
-  border-radius: 5px;
+  border-radius: 1px;
   padding: 10px;
-  cursor: pointer;
+  /* cursor: pointer; */
   font-weight: bold;
+  box-shadow: 1px  1px 10px 0 #000a;
 }
 .createButton{
   background-color: rgb(44, 88, 231);
