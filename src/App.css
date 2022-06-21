@@ -125,3 +125,10 @@
   font-weight: bold;
   cursor: pointer;
 }
+
+@media screen and (max-width: 560px){
+  .form div{
+    display: flex;
+    flex-direction: column;
+  }
+}
